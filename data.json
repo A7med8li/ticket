@@ -1,0 +1,19 @@
+{
+  "token": "NzI2OTE4OTU0NjQ3NTUyMTIw.XvkSCA.Awn0NrdmQGoqPbf8ubuOVLuqeUk", 
+  "prefix": "#",
+  "guild": "729014912982188214",
+  "ticket_category": "751779260066430977",
+  "SupportROLE": "test",
+  "generic": {
+    "footer": "test",
+    "footerURL": "https://cdn.discordapp.com/icons/693858100003733597/4e15c81e619b8ea9a611a984f6a051fd.png?size=1024",
+    "messages": {
+      "noPermissions": "أذونات غير صالحة",
+      "error": "خطأ غير معروف"
+    },
+    "colour": {
+      "error": "8B0000",
+      "Kahrbaa": "000000"
+    }
+  }
+}
